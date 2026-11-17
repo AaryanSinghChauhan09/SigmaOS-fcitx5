@@ -3,7 +3,7 @@ name = "SigmaOS-fcitx5"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fcitx5 component"
+description = "Fcitx5"
 upstream = []
 
 [contract]
